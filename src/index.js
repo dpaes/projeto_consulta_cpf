@@ -5,7 +5,7 @@ const puppeteer = require('puppeteer');
 const url = 'https://protestosp.com.br/Consulta/Index';
 
 //CPF PARA CONSULTA
-const cpf_desejado = '09352100913';
+const cpf_desejado = '00000000000';
 
 //FUNÇÃO ASSINCRONA (QUE SE COMPORTA DE FORMA SINCRONA USANDO OS AWAIT'S)
 //CONFIGURADO COM HEADLESS FALSE(APRESENTA O NAVEGADOR EFETUANDO A OPERAÇÃO)
